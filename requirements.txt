@@ -2,3 +2,5 @@ flask
 numpy
 pandas
 gunicorn
+It is mandatory to download otherwise the project will not work properly and I am attaching the drive link where you can download the file:
+Google Drive link : https://drive.google.com/drive/folders/1DMf-F8XEaqFy8JRTb2pgUbG3KPz1zG7H?usp=sharing
